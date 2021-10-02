@@ -1,0 +1,54 @@
+h2
+{
+	color: darkred;
+	text-align: center;
+	font-family: Cookie;
+	font-size: 70px;
+}
+form
+{
+	text-align: center;
+	background: transparent;
+	color: white;
+}
+input 
+{
+	background: transparent;
+	width: 10%;
+	height: 35px;
+	border-color: #44ff00;
+	border-radius: 30px;
+	text-align: center;
+}
+input:hover
+{
+	background-color: #ff00ff;
+	border-color: #1500ff;
+	width: 15%;
+	height: 45px;
+	transition-duration: 0.4s;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+a
+{
+	text-align: center;
+	border-radius: 30px;
+	background-color: transparent;
+	width: 8%;
+	height: 40px;
+	border-color: #bfff00;
+}
+a:hover
+{
+	background-color: #ff00ff;
+	border-color: #ff1500;
+	width: 10%;
+	height: 45px;
+	transition-duration: 0.4s;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+body
+{
+  background-size: 100%;
+  background-image: url('https://cliply.co/wp-content/uploads/2020/01/402001940_HEARTS_BG_1920x1080.png');
+}
